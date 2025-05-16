@@ -1,2 +1,5 @@
 # SuperheroApp
- FNB App Academy Lesson
+A Website that shows different Avengers heroes.
+
+## Covered
+The use of Cascading Style SHeets (CSS) to design the app. 
